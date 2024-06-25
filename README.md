@@ -6,5 +6,8 @@ Python serves as the foundational programming language for the Notifier project 
 
 The application's main window prominently displays fields for entering notification details, including title, message, and time. Upon setting a notification, the application waits for the specified time delay and then triggers a toast notification, which appears briefly on the user's desktop. Error handling mechanisms are incorporated to validate user inputs, ensuring that all required fields are filled and numeric values are correctly entered. This approach enhances user experience by minimizing potential errors and providing clear feedback during the notification scheduling process.
 
-<img src="" alt="C:\Users\sreev\OneDrive\Desktop\Desktop_notifier\OUTPUT\Screenshot (94).png">
 
+
+![Screenshot (94)](https://github.com/Sarcletred/Desktop_notification_python/assets/135229520/8fa8f3d9-33f4-478b-a8d5-e8e6a11b2b72)
+![Screenshot (95)](https://github.com/Sarcletred/Desktop_notification_python/assets/135229520/0c8a21fb-babc-4408-b6f4-8848c51ad00d)
+![Screenshot (98)](https://github.com/Sarcletred/Desktop_notification_python/assets/135229520/56e18e02-1a24-435d-9dcb-dbb81a478923)
