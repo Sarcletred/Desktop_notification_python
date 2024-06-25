@@ -1,4 +1,4 @@
-# Desktop_notification_python
+# Desktop_notification
 The Notifier application is a simple yet effective tool for scheduling and managing notifications on your desktop. Built using Python and Tkinter for the graphical user interface, and Plyer for cross-platform notifications, it provides an intuitive way to set reminders and alerts.
 One of the core features of the Notifier is its intuitive notification creation process. Users can input a title, a message, and specify a time delay in minutes before the notification appears. This simplicity allows users to quickly schedule reminders without navigating complex menus or options. Furthermore, the application supports visual customization options such as setting custom icons and adjusting timeout settings for notifications. These customization features not only personalize the user experience but also cater to different preferences in how notifications are presented.
 
